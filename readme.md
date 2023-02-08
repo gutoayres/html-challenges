@@ -1,7 +1,7 @@
-<h1 align="center"> Habits </h1>
+<h1 align="center"> Social Tree </h1>
 
 <p align="center">
-O desafio Social Tree da Rocketsear consiste em criar uma página com links pessoais utilizando as tecnologias HTML e CSS. <br/>
+O desafio Social Tree da Rocketseat consiste em criar uma página com links pessoais utilizando as tecnologias HTML e CSS. <br/>
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Social Tree é um desafio da Rocketseat para treinar HTML e CSS
+O Social Tree é um desafio (iniciantes) da Rocketseat para treinar HTML e CSS
 
 - [Visite o projeto online](https://gutoayres.github.io/html-challenges)
 
