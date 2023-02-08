@@ -18,7 +18,7 @@ O desafio Social Tree da Rocketsear consiste em criar uma página com links pess
 <br>
 
 <p align="center">
-  <img alt="Social Tree" src="" width="100%">
+  <img alt="Social Tree" src="https://github.com/gutoayres/html-challenges/blob/main/.github/preview.png" width="100%">
 </p>
  
 ## 🚀 Tecnologias
@@ -37,7 +37,7 @@ O Social Tree é um desafio da Rocketseat para treinar HTML e CSS
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/FvNAFSLChquX9oo46Y3unH/DD-%2F-Social-links-(Copy)?node-id=0%3A1&t=NhtwAa4N63tGkuwN-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/FvNAFSLChquX9oo46Y3unH/DD-%2F-Social-links-(Copy)?node-id=120%3A19&t=h3rfnJB0bOOn6XS6-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
